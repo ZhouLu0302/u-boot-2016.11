@@ -1,0 +1,12 @@
+if TARGET_MX6Q_TQIMX6Q
+
+config SYS_BOARD
+	default "mx6q_tqimx6q"
+
+config SYS_VENDOR
+	default "freescale"
+
+config SYS_CONFIG_NAME
+	default "mx6q_tqimx6q"
+
+endif
